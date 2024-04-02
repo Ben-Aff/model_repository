@@ -338,15 +338,6 @@
   </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
 ## 📊 Overview of Benchmark and Model Zoo (YOLO)
 <details open>
 <summary><b>Supported Algorithms</b></summary>
